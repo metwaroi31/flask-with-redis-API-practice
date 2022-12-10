@@ -1,5 +1,5 @@
 from flask import Flask
-from apps.sensor import sensor_blueprint
+from apps.sensor.views import sensor_blueprint
 
 ################
 #    config    #
