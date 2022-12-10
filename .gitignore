@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/settings.json
+/env
+unit_test/fixtures/.env
+.DS_Store
+.env
